@@ -65,5 +65,5 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/muhammad-arham-shahid
+- LinkedIn: [https://www.linkedin.com/in/muhammad-arham-shahid](https://www.linkedin.com/in/muhammad-arham-shahid-49901a3b4/)
 - Email: tp084288@mail.apu.edu.my
