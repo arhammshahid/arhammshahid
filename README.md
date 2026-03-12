@@ -34,10 +34,8 @@
 | Certification | Issuer | Status |
 |--------------|-------|--------|
 | [CCNA: Introduction to Networks]([url](https://www.credly.com/badges/4e680774-9572-436a-a891-cda386c59f63/public_url)) | Cisco | Finished |
-| [Red Hat System Administration I (RH124 - RHA) - Ver. 9.3]([url](https://www.credly.com/badges/b92e4d41-7c2a-4902-a7e2-dc07a9ebed45/public_url))
- | Red Hat Academy | Finished |
-| [Red Hat System Administration II (RH134 - RHA) - Ver. 10]([url](https://www.credly.com/badges/80cd5d63-687e-478f-8209-dffbdb25e54f/public_url))
- | Red Hat Academy | Finished |
+| [Red Hat System Administration I (RH124 - RHA) - Ver. 9.3]([url](https://www.credly.com/badges/b92e4d41-7c2a-4902-a7e2-dc07a9ebed45/public_url))| Red Hat Academy | Finished |
+| [Red Hat System Administration II (RH134 - RHA) - Ver. 10]([url](https://www.credly.com/badges/80cd5d63-687e-478f-8209-dffbdb25e54f/public_url))| Red Hat Academy | Finished |
  | CCNA: Switching, Routing, and Wireless Essentials | Cisco | In Progress |
 
 ---
